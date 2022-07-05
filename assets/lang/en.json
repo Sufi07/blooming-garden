@@ -1,0 +1,98 @@
+{
+    "splash-screen-title":"Blooming Garden",
+    "splash-screen-description":"GO GREEN REMAIN CLEAN",
+    
+    
+    "login-page-title":"Login Page",
+    "signup_page_title":"Register Now",
+    "login-page-description":"Jasmine or vegetarian does not need to invest in mass care. Unfortunately for propaganda.",
+    "userName_placeholer":"Username",
+    "userName_error": "Please enter username",
+    "email_placeholderB": "Enter Your Email",
+    "email_error": "Please enter email",
+    "phoneNumber_placeholder":"Enter Your Phone Number",
+    "phone_number_error":"Please enter phone number",
+    "password_placeholder":"Enter Your Password",
+    "password_error":"Please enter strong password",
+    "forgot_password":"Forgot Password ?",
+    "doesnt_have_an_account":"Does not have an account? ",
+    "already_have_an_account":"Already have an account?",
+    "register_now_button":"Register Now",
+    "login_now_button":"Login Now",
+    "login_button":"LOGIN",
+    "signup_button": "SIGN UP",
+
+    "navigator_drawer": "More",
+    "home_navigator":"Home",
+    "camera_navigator":"Camera",
+    "favorite_navigator":"Favorite",
+    "users_navigator":"User",
+
+
+
+    "drawer_notification":"Notification",
+    "drawer_PlantGuide": "Plantguide",
+    "drawer_LatestBlogs": "LatestBlogs",
+    "drawer_Orders": "Orders",
+    "drawer_Address": "Address",
+    "drawer_Categories": "Categories",
+    "drawer_Credits": "Credits",
+    "drawer_Logout": "Logout",
+    
+
+    "Home_Text": "Blooming Garden",
+    "Home_Text1": "MOST PLANTS GROW FROM SEEDS",
+    "Home_Text2": "What are you looking for?",
+
+    "Home_PlantType": "Select plant type",
+    "Home_Kyeword": "Enter your Keyword",
+    "Home_Stories": "Our Stories",
+    "Home_Plant_Of_The_Month": "Plant of the Month",
+
+    "Home_Button": "Discover Now",
+    "Home_Top_Category": "Top Category",
+    "Home_BestSeller": "Best Seller",
+
+
+    "User_Myaccount": "My Account",
+    "User_FullName": "Full Name",
+    "User_EmailAddress": "Email Address",
+    "User_PaymentMethod": "Payment Method",
+
+    "User_Edit": "Edit",
+    "User_Edit1": "Edit",
+    "User_Change": "Change",
+
+
+    "My_Address": " My Address",
+    "Billing_Address": " Billing Address",
+    "Edit_Billing_Address": "Edit Billing Address",
+
+    "Address_Shipping": "Shipping Address",
+    "Address_Text": "To add new shipping adress click here!",
+
+    "My_Orders" : "My Orders",
+    "Order_Number": "Order Number",
+    "Order_Date": "Date",
+    "Order_Status": "Status",
+    "Order_Total": "Total",
+
+
+    "Order_Detail": "Order Detail",
+    "Your_Order": "Your Order",
+    "Order_Detail_Number": "Order Number",
+    "Order_Detail_Date": "Order Date",
+    "Order_Detail_Payment_Method": "Payment Method",
+    "Order_Shipping": "Shipping To",
+    "Order_Text": "Please add shipping address",
+
+    "My_Cart": "My Cart",
+    "Sub_Total": "Sub-Total",
+    "My_Cart_Button": "Go to Checkout",
+
+
+
+    "settings": "Settings",
+    "change_language": "Change Language"
+    
+}
