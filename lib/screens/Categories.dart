@@ -18,7 +18,7 @@ class _CategoriesState extends State<Categories> {
     final plants = Provider.of<Products>(context).items.toString();
     return Scaffold(
       backgroundColor: Colors.white,
-      appBar:  AppBar(
+      appBar: AppBar(
         backgroundColor: Colors.white,
         automaticallyImplyLeading: false,
         centerTitle: true, // to center the text in app bar

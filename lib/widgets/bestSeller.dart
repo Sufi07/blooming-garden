@@ -28,9 +28,9 @@ class BestSellers extends StatelessWidget {
               Navigator.of(context).pushNamed(
                 ProductDetail.routeName,
                 arguments: {
-                  // 'title': products[index].title,
-                  // 'price': products[index].price,
-                  // 'imageAsset': products[index].imageAsset,
+                  'title': products[index].title,
+                  'price': products[index].price,
+                  'imageAsset': products[index].imageAsset,
                   'id': products[index].id,
                 },
               );

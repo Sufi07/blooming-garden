@@ -18,7 +18,7 @@ class ProductList with ChangeNotifier {
     return ProductList(
         id: json['id'],
         title: json['title'],
-        imageAsset: json['imageAsset'],
+        imageAsset: json['ImageAsset'],
         price: json['price']);
   }
   factory ProductList.fromJson(Map<String, dynamic> json) {
@@ -27,7 +27,7 @@ class ProductList with ChangeNotifier {
     return ProductList(
         id: json['id'] ?? '',
         title: json['title'] ?? '',
-        imageAsset: json['imageAsset'] ?? '',
+        imageAsset: json['ImageAsset'] ?? '',
         price: json['price'] ?? 0);
   }
 

@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:practice_app/constant/constant_color.dart';
 
@@ -49,7 +48,7 @@ class Credits extends StatelessWidget {
                   children: <TextSpan>[
                     TextSpan(text: 'This Ecommerce App UI is designed by'),
                     TextSpan(
-                      text: ' Hasnat Ali.',
+                      text: ' Iman Muzaffar.',
                       style: TextStyle(
                         fontWeight: FontWeight.w900,
                       ),

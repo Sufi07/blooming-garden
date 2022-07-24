@@ -300,7 +300,9 @@ class HomePageWidget extends StatelessWidget {
             ),
           ),
         ),
-        BestSellers(products: products),
+        Container(
+          child: BestSellers(products: products),
+        ),
         SizedBox(
           height: 40,
         )

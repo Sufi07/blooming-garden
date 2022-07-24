@@ -40,10 +40,16 @@ Future<List<ProductList>> getData() async {
   late List<ProductList> productList = [];
   final data;
   try {
-    final response = await http
-        .post(Uri.parse("http://192.168.50.106:5000/products"), headers: {
-      HttpHeaders.contentTypeHeader: "application/json",
-    });
+    final response = await http.post(
+        //Uri.parse("http://192.168.50.107:45455/V1/json/data/products"),
+        Uri.parse("http://192.168.50.106:5000/products"),
+        headers: {
+          "Content-type": "application/json",
+          "Accept": "application/json"
+        },
+        body: jsonEncode({
+          "param": {"LanguageID": 2, "CategoryID": 3}
+        }));
     print('API Response:');
     print(response.statusCode);
     if (response.statusCode == 200) {

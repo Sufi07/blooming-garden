@@ -25,6 +25,8 @@ class _DropDownState extends State<DropDown> {
   void _onChanged(String val) {
     setState(() {
       _value = val;
+      print('Value in the category');
+      print(_value);
     });
   }
 
@@ -67,6 +69,7 @@ class _DropDownState extends State<DropDown> {
                       value: _value,
                       onChanged: (val) {
                         _onChanged(val!);
+                        print('onchnaged of dropdown');
                       },
                       items: _values!.map((e) {
                         return new DropdownMenuItem(

@@ -25,15 +25,17 @@ class _ProductListingState extends State<ProductListing>
   String? category;
   String? quantity;
 
+  Future<void> gettingData() async {
+    print("start of getting data");
+    List<ProductList> response = await getData();
+    print("in getting data");
+    print("Response");
+    print(response);
+  }
+
   Future<List<ProductList>> k() async {
     List<ProductList> prodlist = [];
-    final response = await http.get(
-        Uri.parse("https://mocki.io/v1/6c5a30ee-c483-478d-878b-49a1e6390044"));
-    //final data = json.decode(response.body);
-    final jsonResponse = json.decode(response.body);
-    for (var prod in jsonResponse) {
-      prodlist.add(ProductList.fromJson(prod));
-    }
+    prodlist = await getData();
     print("Hello dataK()");
     print(prodlist.length);
     return prodlist;
@@ -63,20 +65,13 @@ class _ProductListingState extends State<ProductListing>
     Tab(text: "New"),
     Tab(text: "Featured"),
   ];
-  Future<void> gettingData() async {
-    print("start of getting data");
-    List<ProductList> response = await getData();
-    print("in getting data");
-    print("Response");
-    print(response);
-  }
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
-    //k();
-    gettingData();
+    //gettingData();
+
     final productData = Provider.of<Products>(context, listen: false);
     productData.fetchData(context);
     // Create TabController for getting the index of current tab
