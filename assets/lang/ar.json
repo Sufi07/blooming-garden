@@ -1,0 +1,95 @@
+{
+    "splash-screen-title":"Blooming Garden",
+    "splash-screen-description":"GO GREEN REMAIN CLEAN",
+    
+    
+    "login-page-title":"تسجيل الدخول",
+    "signup_page_title":"سجل",
+    "login-page-description":".الياسمين أو نباتي لا يحتاج إلى الاستثمار في العناية الجماعية. لسوء الحظ للدعاية",
+    "userName_placeholer":"سم المستخدم",
+    "userName_error": "الرجاء إدخال اسم المستخدم",
+    "email_placeholderB":"أدخل بريدك الإلكتروني",
+    "email_error":"الرجاء إدخال البريد الإلكتروني",
+    "phoneNumber_placeholder":"أدخل رقم هاتفك",
+    "phone_number_error":"الرجاء إدخال رقم الهاتف",
+    "password_placeholder":"ادخل رقمك السري",
+    "password_error":"الرجاء إدخال كلمة مرور قوية",
+    "forgot_password":"هل نسيت كلمة المرور ؟",
+    "doesnt_have_an_account":"ليس لديك حساب؟",
+    "already_have_an_account":"هل لديك حساب؟",
+    "register_now_button": "سجل الان",
+    "login_now_button":"تسجيل الدخول الآن",
+    "login_button":"تسجيل الدخول",
+    "signup_button": "سجل",
+    
+
+    "navigator_drawer": "أكثر",
+    "home_navigator":"الصفحة الرئيسية",
+    "camera_navigator":"الة تصوير",
+    "favorite_navigator":"مفضل",
+    "users_navigator":"المستعمل",
+
+
+
+
+    "drawer_notification":"تنبيه",
+    "drawer_PlantGuide": "دليل النبات",
+    "drawer_LatestBlogs": "الأحدث",
+    "drawer_Orders": "طلب",
+    "drawer_Address": "عنوان",
+    "drawer_Categories": "التصنيفات",
+    "drawer_Credits": "الاعتمادات",
+    "drawer_Logout": "تسجيل خروج",
+
+    "Home_Text": "بلومينج جاردن",
+    "Home_Text1": "تنمو معظم النباتات من البذور",
+    "Home_Text2": "عن ماذا تبحث؟",
+
+    "Home_PlantType": "حدد نوع النبات",
+    "Home_Kyeword": "أدخل الكلمة الرئيسية الخاصة بك",
+    "Home_Stories": "قصصنا",
+    "Home_Plant_Of_The_Month": "مصنع الشهر",
+
+    "Home_Button": "اكتشف الآن",
+    "Home_Top_Category": "أعلى فئة",
+    "Home_BestSeller": "الأكثر مبيعا",
+
+    "User_Myaccount": "حسابي",
+    "User_FullName": "الاسم بالكامل",
+    "User_EmailAddress": "عنوان البريد الالكترونى",
+    "User_PaymentMethod": "طريقة الدفع او السداد",
+
+    "User_Edit": "تعديل",
+    "User_Edit1": "تعديل",
+    "User_Change": "يتغيرون",
+
+    "My_Address": " عنواني",
+    "Billing_Address": " عنوان وصول الفواتير",
+    "Edit_Billing_Address": "تحرير عنوان الفواتير",
+
+    "Address_Shipping": "عنوان الشحن",
+    "Address_Text": "لإضافة عنوان شحن جديد انقر هنا!",
+
+
+    "My_Orders" : "طلباتي",
+    "Order_Number": "رقم الأمر",
+    "Order_Date": "تاريخ",
+    "Order_Status": "الحالة",
+    "Order_Total": "مجموع",
+
+    "Order_Detail": "تفاصيل الطلب",
+    "Your_Order": "طلبك",
+    "Order_Detail_Number": "رقم الأمر",
+    "Order_Detail_Date": "تاريخ الطلب",
+    "Order_Detail_Payment_Method": "طريقة الدفع او السداد",
+    "Order_Shipping": "يشحن إلى",
+    "Order_Text": "الرجاء إضافة عنوان الشحن",
+
+    "My_Cart": "عربة التسوق الخاصة بي",
+    "Sub_Total": "المجموع الفرعي",
+    "My_Cart_Button": "اذهب إلى Checkout",
+    
+
+    "settings": "إعدادات",
+    "change_language": "تغيير اللغة"
+}

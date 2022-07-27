@@ -1,0 +1,93 @@
+{
+    "splash-screen-title":"بلومنگ گارڈن",
+    "splash-screen-description":"صاف ستھرا رہیں",
+    
+    
+    "login-page-title":"لاگ ان",
+    "signup_page_title":" رجسٹر کریں",
+    "login-page-description":"جیسمین یا سبزی خوروں کو بڑے پیمانے پر نگہداشت میں سرمایہ کاری کرنے کی ضرورت نہیں ہے۔ بدقسمتی سے پروپیگنڈا کے لئے۔",
+    "userName_placeholer":"صارف نام",
+    "userName_error": "برائے کرم صارف نام درج کریں",
+    "email_placeholderB":"اپنا ای میل درج کریں",
+    "email_error":"براہ کرم ای میل درج کریں",
+    "phoneNumber_placeholder":"اپنا فون نمبر درج کریں",
+    "phone_number_error":"براہ کرم فون نمبر درج کریں",
+    "password_placeholder":"اپنا پاس ورڈ درج کریں",
+    "password_error":"براہ کرم مضبوط پاس ورڈ درج کریں۔",
+    "forgot_password":"پاسورڈ بھول گے؟",
+    "doesnt_have_an_account":"کیا آپ کا اکاؤنٹ نہیں ہے؟",
+    "already_have_an_account":"پہلے سے ہی ایک اکاؤنٹ ہے؟",
+    "register_now_button":"ابھی رجسٹر کریں",
+    "login_now_button":"ابھی لاگ ان کریں",
+    "login_button":"لاگ ان کریں",
+    "signup_button": "سائن اپ",
+    
+    "navigator_drawer": "مزید",
+    "home_navigator":"ہوم پیج",
+    "camera_navigator":"کیمرہ",
+    "favorite_navigator":"پسندیدہ",
+    "users_navigator":"صارف",
+
+    "drawer_notification":"اطلاع",
+    "drawer_PlantGuide": "پلانٹ گائڈ",
+    "drawer_LatestBlogs": "تازہ ترین بلاگ",
+    "drawer_Orders": "احکامات",
+    "drawer_Address": "پتہ",
+    "drawer_Categories": "اقسام",
+    "drawer_Credits": "کریڈٹ",
+    "drawer_Logout": "لاگ آوٹ",
+    
+
+
+    "Home_Text": "بلومنگ گارڈن",
+    "Home_Text1": "بیجوں سے زیادہ تر پودے اگتے ہیں",
+    "Home_Text2": "تم کیا تلاش کر رہے ہو؟",
+
+    "Home_PlantType": "پودوں کی قسم منتخب کریں",
+    "Home_Kyeword": "اپنا مطلوبہ الفاظ درج کریں",
+    "Home_Stories": "ہماری کہانیاں",
+    "Home_Plant_Of_The_Month": "مہینہ کا پودا",
+
+    "Home_Button": "ابھی دریافت کریں",
+    "Home_Top_Category": "اعلی قسم",
+    "Home_BestSeller": "بہترین بیچنے والے",
+
+    "User_Myaccount": "میرا اکاونٹ",
+    "User_FullName": "پورا نام",
+    "User_EmailAddress": "ای میل اڈریس",
+    "User_PaymentMethod": "ادائیگی کا طریقہ",
+
+    "User_Edit": "ترمیم",
+    "User_Edit1": "ترمیم",
+    "User_Change": "بدلیں",
+
+    "My_Address": " میرا پتہ",
+    "Billing_Address": " بل کا پتہ",
+    "Edit_Billing_Address": "بلنگ ایڈریس میں ترمیم کریں",
+
+    "Address_Shipping": "شپنگ ایڈریس",
+    "Address_Text": "نیا شپنگ ایڈریس شامل کرنے کے لئے یہاں کلک کریں!",
+
+
+    "My_Orders" : "میرے احکام",
+    "Order_Number": "آرڈر نمبر",
+    "Order_Date": "تاریخ",
+    "Order_Status": "حالت",
+    "Order_Total": "کل",
+
+    "Order_Detail": "آرڈر تفصیل",
+    "Your_Order": "آپ کے حکم",
+    "Order_Detail_Number": "آرڈر نمبر",
+    "Order_Detail_Date": "آرڈر کی تاریخ",
+    "Order_Detail_Payment_Method": "ادائیگی کا طریقہ",
+    "Order_Shipping": "بھیجنا",
+    "Order_Text": "براہ کرم شپنگ ایڈریس شامل کریںs",
+
+    "My_Cart": "میری ٹوکری",
+    "Sub_Total": "کل ٹوٹل",
+    "My_Cart_Button": "چیکآاٹ پر جائیں",
+
+    "settings": "ترتیبات",
+    "change_language": "زبان تبدیل کریں"
+    
+}
